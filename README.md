@@ -2,7 +2,7 @@
 
 ###
 
-<img align="left" height="150" src="D:\Saeem\Learning\shanks.gif"  />
+<img align="left" height="150" src="D://Saeem//Learning//shanks.gif"  />
 
 ###
 
